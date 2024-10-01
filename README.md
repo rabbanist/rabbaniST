@@ -13,8 +13,9 @@ A PHP & Laravel developer with 2+ years of experience building web apps like Job
 
 | Position            | Institute                                   | Duration            | 
 | ------------------- | ------------------------------------------- | ------------------- |
-| Backend Development | Intermediate                                | NOV 2022 - Running  |   
-| PHP $ Laravel       | M-Files                                     | NOV 2022 - Running |
+| Backend Development | OSTAD                                       | SEP 2023 - Running  |   
+| PHP & Laravel       | Ostad.app                                   | SEP 2023 - Running |
+| Javascript          | Udemy                                       | Jan 2024 - Running |
 
 
 <br />
